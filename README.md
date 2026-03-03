@@ -1,4 +1,3 @@
-## _Lourdes Terán_
 ## Telecommunications Engineer | Ssr Data Analyst 📊
 
 Welcome to my space.
