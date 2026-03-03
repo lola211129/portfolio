@@ -26,5 +26,5 @@ Specializing in end-to-end data solutions. I leverage Python for data cleaning a
 
 ---
 ### 📫 Contacto
-- **LinkedIn:** [www.linkedin.com/in/lourdes-terán-21964b8b/]
-- **Email:** [lytj1090@gmail.com]
+- [**LinkedIn:** 🔗](www.linkedin.com/in/lourdes-terán-21964b8b/)
+- [**Email:**🔗](lytj1090@gmail.com)
