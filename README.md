@@ -25,5 +25,5 @@ Welcome to my space.
 
 ---
 ### 📫 Contacto
-- [**LinkedIn:** 🔗](www.linkedin.com/in/lourdes-terán-21964b8b/)
+- **LinkedIn:** www.linkedin.com/in/lourdes-terán-21964b8b/
 - **Email:** lytj1090@gmail.com
