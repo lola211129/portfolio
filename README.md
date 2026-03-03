@@ -23,6 +23,7 @@ Specializing in end-to-end data solutions. I leverage Python for data cleaning a
 | <img src="assets/Telecom%20users%20dashboard.png" width="400"> | <img src="assets/Proyecto%20cambio%20climático.png" width="400"> |
 | **Tech Stack:** Python (ETL), Power BI (Advanced DAX), Data Storytelling. <br> **Description:** Leveraging Data Science within the Telecom industry. Designed an interactive Power BI dashboard tracking revenue ($21.2M). | **Tech Stack:** Power BI (DAX), ETL Processes, Technical Writing. <br> **Description:** Analysis of GHG emissions ($1.02\text{ M TN}$ total) and correlation with global power generation. |
 | [Link Project 🔗](https://drive.google.com/drive/u/1/folders/14eYfYyZUT889WvjLuHzzTkq71u0NZhXr) | [Link Project 🔗](https://drive.google.com/drive/u/1/folders/1KUV0sT7yqntiHgiSGQQfdED3DJhbZh_U) |
+
 ---
 ### 📫 Contacto
 - **LinkedIn:** [www.linkedin.com/in/lourdes-terán-21964b8b/]
