@@ -1,8 +1,7 @@
-Lourdes Terán
+## Lourdes Terán
 ## Telecommunications Engineer | Ssr Data Analyst 📊
 
 Welcome to my space.
-Specializing in end-to-end data solutions. I leverage Python for data cleaning and automation, Advanced Excel for complex modeling, and Power BI for high-impact visual storytelling. Turning E-commerce and technical data into actionable business strategy.
 
 ### 🚀 Featured projects
 
@@ -27,4 +26,4 @@ Specializing in end-to-end data solutions. I leverage Python for data cleaning a
 ---
 ### 📫 Contacto
 - [**LinkedIn:** 🔗](www.linkedin.com/in/lourdes-terán-21964b8b/)
-- [**Email:** 🔗](lytj1090@gmail.com)
+- **Email:** lytj1090@gmail.com
