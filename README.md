@@ -3,18 +3,19 @@
 
 Welcome to my portfolio.
 Data Analyst Ssr | Telecommunications Engineer 📊. Specializing in end-to-end data solutions. I leverage Python for data cleaning and automation, Advanced Excel for complex modeling, and Power BI for high-impact visual storytelling. Turning E-commerce and technical data into actionable business strategy.
-### 🚀 Mis Proyectos Destacados
+### 🚀 Featured projects
 
 | Practices with Python | Music genre classification |
 |:---:|:---:|
 | <img src="assets/practices.png" width="400"> | <img src="assets/music genre.png" width="400"> |
-| **Tech Stack:** Python (Pandas, Numpy, Funciones, Arrays) | **Tech Stack:** Data science, Data analytics |
+| **Tech Stack:** Python script for data cleaning (ETL) and automated export to Excel. Python (Pandas, Numpy, Funciones, Arrays) | **Tech Stack:** Dashboard Data science, Data analytics |
 | [Link Project 🔗]([link-a-tu-repositorio-o-pdf](https://drive.google.com/drive/folders/1pDz9prGGFJJ5KJ0GU7bjgAybGYF4-1QU)) | [Link Project (analytics) 🔗]( https://docs.google.com/presentation/d/1-3PspDrl4VKbdzlKP1uvIhgYJUxzEmqs4VCt-6jW5LQ/edit?slide=id.gfd95e00683_0_54#slide=id.gfd95e00683_0_54) | [Link Project (python code) 🔗](https://colab.research.google.com/drive/1e9_Sk_03c9GemAllHlvJ7FJ6JNhbujrl?usp=sharing)
 
-| Advanced Excel project | Marketing digital project |
+| Marvel Cinematic Universe Financial & Market Analysis | Marketing digital project |
 |:---:|:---:|
 | <img src="assets/Dashboard proyecto marvel.png" width="400"> | <img src="assets/AF TAJ.png" width="400"> |
-| **Tech Stack:** Data analytics and Data visualization | **Tech Stack:** Marketing plan and Launch strategy |
+| **Tech Stack:** Advanced Excel (Power Query, Pivot Tables, Slicers)
+**Description:** End-to-end data processing to build a dynamic dashboard tracking box office performance, ROI analysis, and geographic market distribution. It provides actionable insights into global audience trends and movie profitability.| **Tech Stack:** Marketing plan and Launch strategy |
 | [Link Project🔗]([link-a-tu-repositorio-o-pdf](https://docs.google.com/spreadsheets/d/1SODzMwkdttOemxfXFjC5KdpJhjJK5-xy/edit?gid=1161921016#gid=1161921016)) | [Link Project 🔗]([link-a-tu-repositorio-o-pdf](https://docs.google.com/presentation/d/1XZY28rb8ImJRbFfev6uurQhhe3kldNHqjKfYYJV1Sws/edit?slide=id.p#slide=id.p)) |
 
 | Telecom users dataset | Climate change dataset |
